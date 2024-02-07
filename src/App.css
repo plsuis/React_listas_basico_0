@@ -1,7 +1,15 @@
 .App {
   text-align: center;
 }
-
+li{
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+p{flex:1}
+img{
+  border-radius: 50%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
